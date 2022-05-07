@@ -4,4 +4,4 @@
 [![In](https://img.shields.io/badge/LinkedIn-in-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cesar-aguilera-0b6ba868/)
 [![Email](https://img.shields.io/badge/cesargnu29%40gmail.com-mail-blueviolet?style=flat-square)](mailto://cesargnu29@gmail.com)
 
-Fullstack Developer amante de PHP Y JS :heart:, apasionado del software libre y entusiasmado por siempre aprender nuevas tecnologías.
+Fullstack Developer amante de PHP, JS y GO :heart:, apasionado del software libre y entusiasmado por siempre aprender nuevas tecnologías.
